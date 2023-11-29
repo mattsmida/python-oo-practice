@@ -1,0 +1,13 @@
+# Veggies
+
+kale
+parsnips
+
+# Fruits
+
+apple
+mango
+
+# Meat
+salmon
+beyond-burger?
